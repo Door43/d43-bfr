@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bfr:home|Door43 (bfr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bfr|d43-bfr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bfr/archive/master.zip|d43-bfr.zip]]
+
+**Recent Changes**
+{{changes>ns = bfr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bfr|Ethnologue data]]
+
